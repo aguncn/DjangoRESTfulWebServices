@@ -1,0 +1,5 @@
+按《Django RESTful Web Services: The easiest way to build Python RESTful APIs and web services with Django》
+这本书学完之后的代码。
+其特点是包括了DRF的所有主要功能实现，
+使用Pytest书写的测试用例
+版本管理，权限认证，流量管理，序列化，过滤搜索全都有。
